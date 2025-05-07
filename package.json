@@ -1,0 +1,32 @@
+{
+  "name": "module01_693",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpan688/module01_693.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cpan688/module01_693/issues"
+  },
+  "homepage": "https://github.com/cpan688/module01_693#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-react": "^7.27.1",
+    "nodemon": "^3.1.10",
+    "public": "^0.1.4"
+  }
+}
